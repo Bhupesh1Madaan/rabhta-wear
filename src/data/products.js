@@ -6,8 +6,8 @@ import whiteskirt3 from "../assets/whiteskirt3.png";
 import whiteskirt4 from "../assets/whiteskirt4.png";
 import Whiteskirt2 from "../assets/Whiteskirt2.png";
 import Whiteskirt1 from "../assets/Whiteskirt1.png";
-import kaftangrey1 from "../assets/kaftangrey1.jpeg";
-import kaftangrey2 from "../assets/kaftangrey2.jpeg";
+import Kaftangrey1 from "../assets/Kaftangrey1.jpeg";
+import Kaftangrey2 from "../assets/Kaftangrey2.jpeg";
 import kaftangrey3 from "../assets/kaftangrey3.png";
 import kaftangrey4 from "../assets/kaftangrey4.png";
 
@@ -64,8 +64,8 @@ const productsData = [
         manufacturer: "Ochre & Black Private Limited, Plot No R 847/1/1, TTC Ind. Area, MIDC, Rabale, Navi Mumbai, India - 400701",
         materialWashCare: "Polyester blend, Hand wash",
         deliveryReturns: "Free delivery in India. Easy returns within 7 days.",
-        image: kaftangrey1,
-        images: [kaftangrey1, kaftangrey2, kaftangrey3, kaftangrey4]
+        image: Kaftangrey1,
+        images: [Kaftangrey1, Kaftangrey2, kaftangrey3, kaftangrey4]
     },
     {
         id: 3,
