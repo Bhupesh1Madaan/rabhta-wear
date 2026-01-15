@@ -9,7 +9,7 @@ import Whiteskirt1 from "../assets/Whiteskirt1.png";
 import Kaftangrey1 from "../assets/Kaftangrey1.jpeg";
 import Kaftangrey2 from "../assets/Kaftangrey2.jpeg";
 import kaftangrey3 from "../assets/kaftangrey3.png";
-import kaftangrey4 from "../assets/kaftangrey4.png";
+import Kaftangrey4 from "../assets/kaftangrey4.png";
 
 
 const productsData = [
@@ -65,7 +65,7 @@ const productsData = [
         materialWashCare: "Polyester blend, Hand wash",
         deliveryReturns: "Free delivery in India. Easy returns within 7 days.",
         image: Kaftangrey1,
-        images: [Kaftangrey1, Kaftangrey2, kaftangrey3, kaftangrey4]
+        images: [Kaftangrey1, Kaftangrey2, kaftangrey3, Kaftangrey4]
     },
     {
         id: 3,
