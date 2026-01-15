@@ -9,7 +9,7 @@ import Whiteskirt1 from "../assets/Whiteskirt1.png";
 import Kaftangrey1 from "../assets/Kaftangrey1.jpeg";
 import Kaftangrey2 from "../assets/Kaftangrey2.jpeg";
 import kaftangrey3 from "../assets/kaftangrey3.png";
-import Kaftangrey4 from "../assets/kaftangrey4.png";
+import Kaftangrey4 from "../assets/Kaftangrey4.png";
 
 
 const productsData = [
